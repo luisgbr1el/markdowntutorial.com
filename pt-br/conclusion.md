@@ -7,7 +7,7 @@ locale: pt-br
 
 Você completou todos os exercícios!
 
-Acredite ou não, _acabamos de começar_ a explorar o que pode ser feito
+Acredite ou não, apenas _acabamos de começar_ a explorar o que pode ser feito
 com Markdown. Há muitas implementações "extendidas" do Markdown que suportam
 formatos como tabelas, listas de definição, notas de rodapé, e mais. Como
 elas não são padronizadas, não são essenciais para aprender o básico, como já
