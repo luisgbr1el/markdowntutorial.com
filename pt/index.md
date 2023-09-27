@@ -4,7 +4,7 @@ locale: pt
 ---
 
 Markdown é uma forma de escrever conteúdo para a web. É escrito no que
-as pessoas gostam de chamar de "texto plano" , que é exatamente o tipo de texto
+as pessoas gostam de chamar de "texto plano", que é exatamente o tipo de texto
 que você está acostumado a escrever e ver. O texto plano é simplesmente o alfabeto
 normal, com alguns símbolos familiares, como asteriscos (
 <code>*</code> ) e crases ( <code>`</code> ).
