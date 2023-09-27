@@ -1,6 +1,6 @@
 ---
 layout: default
-locale: pt
+locale: pt-br
 ---
 
 Markdown é uma forma de escrever conteúdo para a web. É escrito no que
