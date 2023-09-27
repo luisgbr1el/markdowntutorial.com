@@ -16,9 +16,6 @@ introduzimos aqui.
 Se você quiser saber mais sobre essas implementações do Markdown, sinta-se convidado(a)
 para explorar vários outros aplicativos e tutoriais sobre Markdown. Aqui estão alguns:
 
-If you'd like to know more about these Markdown implementations, you're welcome
-to explore any number of other Markdown apps and tutorials. Here are just a few:
-
 {% for link in site.data.resources.links %}
 * <{{ link }}>
 {% endfor %}
